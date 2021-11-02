@@ -4,7 +4,7 @@ import App from '../App';
 import SolarSystem from '../components/SolarSystem';
 
 describe('2 - Crie um componente chamado `SolarSystem`', () => {
-  it('Será verificado se o componente <SolarSystem /> existe', () => {
+  it.only('Será verificado se o componente <SolarSystem /> existe', () => {
     render(<SolarSystem />);
   });
 
