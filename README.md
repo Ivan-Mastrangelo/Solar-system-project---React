@@ -2,7 +2,7 @@
 # Solar system
 Este é meu primeiro projeto em React, uma biblioteca JavaScript de front-end gratuita e de código aberto.
 
-Foi desenvolvido como parte de avalição do curso de front-end da escola Trybe, para que fosse capaz de demonstrar as habilidades aprendidas em :
+Foi desenvolvido como parte da avalição do curso de front-end da escola Trybe, para que fosse capaz de demonstrar as habilidades aprendidas em:
 
 - Utilizar JSX no React;
 
