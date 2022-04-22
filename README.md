@@ -30,7 +30,7 @@ Neste projeto desenvolvi uma representação do sistema solar, possibilitando à
 
 Basta clonar o projeto:
 ```
-git@github.com:Ivan-Mastrangelo/Solar-system-project
+git@github.com:Ivan-Mastrangelo/Solar-system-project---React.git
 ```
 Entrar no diretório criado:
 ```
